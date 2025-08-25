@@ -3,7 +3,7 @@
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\VisualStudio\DockerAspnetCore\DockerAspnetCore.Avipes\bin\Release\net9.0\publish\</_PublishTargetUrl>
-    <History>True|2025-08-25T14:00:28.1569027Z||;</History>
+    <History>True|2025-08-25T16:23:52.8377754Z||;True|2025-08-25T19:05:52.6345493+03:00||;True|2025-08-25T19:03:02.5986620+03:00||;True|2025-08-25T18:57:23.5576688+03:00||;True|2025-08-25T18:56:51.9516987+03:00||;True|2025-08-25T17:00:28.1569027+03:00||;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>
