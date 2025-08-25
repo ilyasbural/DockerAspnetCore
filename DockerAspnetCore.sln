@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockerAspnetCore.Avipes", "DockerAspnetCore.Avipes\DockerAspnetCore.Avipes.csproj", "{E025EB64-D68B-461E-B0A2-F7ABBA092D27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockerAspnetCore.Avonyu", "DockerAspnetCore.Avonyu\DockerAspnetCore.Avonyu.csproj", "{E38060C0-5DDA-4ABF-9F0D-B0F46958C909}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{E025EB64-D68B-461E-B0A2-F7ABBA092D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E025EB64-D68B-461E-B0A2-F7ABBA092D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E025EB64-D68B-461E-B0A2-F7ABBA092D27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E38060C0-5DDA-4ABF-9F0D-B0F46958C909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E38060C0-5DDA-4ABF-9F0D-B0F46958C909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E38060C0-5DDA-4ABF-9F0D-B0F46958C909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E38060C0-5DDA-4ABF-9F0D-B0F46958C909}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
